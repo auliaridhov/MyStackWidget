@@ -12,6 +12,7 @@ import android.widget.Toast;
 /**
  * Implementation of App Widget functionality.
  */
+//Cek on github
 public class ImageBannerWidget extends AppWidgetProvider {
 
     public static final String TOAST_ACTION = "com.example.dicoding.TOAST_ACTION";
